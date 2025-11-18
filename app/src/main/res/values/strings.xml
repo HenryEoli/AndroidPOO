@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">AndroidPOO</string>
-    <string name="app_name">AndroidPOO</string>
-    <string name="app_name">AndroidPOO</string>
-    <string name="app_name">AndroidPOO</string>
+    <string name="texto_avancar">Avançar</string>
+    <string name="texto_consultar">Consultar</string>
+    <string name="texto_nome">Nome</string>
+    <string name="texto_documento">Documento</string>
+    <string name="texto_curso">Curso</string>
 </resources>
