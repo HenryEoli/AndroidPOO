@@ -23,3 +23,4 @@ rootProject.name = "AndroidPOO"
 include(":app")
 include(":app")
 include(":app")
+include(":app")

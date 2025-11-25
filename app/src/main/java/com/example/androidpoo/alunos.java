@@ -1,6 +1,8 @@
 package com.example.androidpoo;
 
-public class alunos {
+import java.io.Serializable;
+
+public class alunos implements Serializable {
 
     private int id;
     private String nome;
